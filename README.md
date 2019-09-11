@@ -1,6 +1,6 @@
 # ScentSee Backend #
 
-Part of Application for retrieving online information about perfumes and structuring it in a searchable space structure.
+    Part of application for retrieving online information about perfumes and structuring it in a searchable space structure.
 Part of Scentsee backend architecture.
 
 ### What is this repository for? ###
